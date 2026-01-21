@@ -29,7 +29,7 @@ Getting started is easy!
 
 1.  **Clone the Repository**:
     ```sh
-    git clone https://github.com/najirh/Library-System-Management---P2.git
+    git clone https://github.com/VijayAdithyaBK/Library-System-Management.git
     ```
 2.  **Set Up the Database**: Run `database_setup.sql`.
 3.  **Run Queries**: Execute `analysis_queries.sql` to see the magic happen!
